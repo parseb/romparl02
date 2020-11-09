@@ -1,5 +1,5 @@
-# romparl0
-WHAT
+# romparl02
+
 Romanian parliament transcripts database (1996-2020 oct.) with full seed and Rails DB explorer
 
 todo
